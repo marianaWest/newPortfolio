@@ -3592,6 +3592,10 @@ html {
 		margin: 0 0 3em -2em;
 	}
 
+	#footer p {
+		color: white;
+	}
+
 		#footer > * {
 			width: calc(50% - 2em);
 			margin-left: 2em;
